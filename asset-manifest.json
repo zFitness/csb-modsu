@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-modsu/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-modsu/static/js/main.890c5fbf.chunk.js",
-    "main.js.map": "https://.github.io/csb-modsu/static/js/main.890c5fbf.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-modsu/static/js/runtime-main.b9e08c87.js",
-    "runtime-main.js.map": "https://.github.io/csb-modsu/static/js/runtime-main.b9e08c87.js.map",
-    "static/js/2.6e9df943.chunk.js": "https://.github.io/csb-modsu/static/js/2.6e9df943.chunk.js",
-    "static/js/2.6e9df943.chunk.js.map": "https://.github.io/csb-modsu/static/js/2.6e9df943.chunk.js.map",
-    "index.html": "https://.github.io/csb-modsu/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-modsu/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.6e9df943.chunk.js.LICENSE.txt": "https://.github.io/csb-modsu/static/js/2.6e9df943.chunk.js.LICENSE.txt"
+    "main.css": "https://zfitness.github.io/csb-modsu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://zfitness.github.io/csb-modsu/static/js/main.08b898da.chunk.js",
+    "main.js.map": "https://zfitness.github.io/csb-modsu/static/js/main.08b898da.chunk.js.map",
+    "runtime-main.js": "https://zfitness.github.io/csb-modsu/static/js/runtime-main.d32d720c.js",
+    "runtime-main.js.map": "https://zfitness.github.io/csb-modsu/static/js/runtime-main.d32d720c.js.map",
+    "static/js/2.6e9df943.chunk.js": "https://zfitness.github.io/csb-modsu/static/js/2.6e9df943.chunk.js",
+    "static/js/2.6e9df943.chunk.js.map": "https://zfitness.github.io/csb-modsu/static/js/2.6e9df943.chunk.js.map",
+    "index.html": "https://zfitness.github.io/csb-modsu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://zfitness.github.io/csb-modsu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6e9df943.chunk.js.LICENSE.txt": "https://zfitness.github.io/csb-modsu/static/js/2.6e9df943.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9e08c87.js",
+    "static/js/runtime-main.d32d720c.js",
     "static/js/2.6e9df943.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.890c5fbf.chunk.js"
+    "static/js/main.08b898da.chunk.js"
   ]
 }
